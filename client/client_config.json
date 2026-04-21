@@ -1,0 +1,5 @@
+{
+  "master_address": "192.168.1.10",
+  "master_tcp_port": 8080,
+  "client_callback_address": "192.168.1.20"
+}

@@ -1,0 +1,8 @@
+{
+  "tcp_address": "0.0.0.0",
+  "tcp_port": 8080,
+  "udp_address": "0.0.0.0",
+  "udp_port": 8081,
+  "backup_address": "192.168.1.11",
+  "backup_tcp_port": 8080
+}
