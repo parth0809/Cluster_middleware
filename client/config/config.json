@@ -1,0 +1,10 @@
+
+{
+  "name": "job1",
+  "executable": "/home/parth/Downloads/sdfsafd/Clust (2)/Cluster_middlewae-main/kilpo/client/sample_jobs/a",
+  "priority": 2,
+  "time_required": 120,
+  "min_memory": 512,
+  "min_cores": 1,
+  "max_memory": 2048
+}

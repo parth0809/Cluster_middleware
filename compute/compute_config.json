@@ -1,0 +1,12 @@
+{
+  "compute_address": "10.147.170.64",
+  "compute_tcp_port": 9090,
+  "master_address": "10.147.176.36",
+  "master_udp_port": 18081,
+  "backup_address": "10.147.176.36",
+  "backup_udp_port": 18083,
+  "compute_available_resources": 100,
+  "compute_free_cores": 4,
+  "compute_free_memory_mb": 2048,
+  "compute_free_gpus": 0
+}
