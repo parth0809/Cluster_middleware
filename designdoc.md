@@ -407,7 +407,7 @@ flowchart LR
     V --> W["Client callback delivery"]
 ```
 
-## Mermaid Network Flow
+## Network Flow
 
 This diagram focuses on transport channels, ports, and protocol direction between runtime nodes.
 
