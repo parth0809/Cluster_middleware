@@ -366,7 +366,7 @@ When a node transport failure occurs:
 19. Primary responds to the client.
 20. If primary is gone, backup can still recover from persisted state and callback delivery.
 
-## Mermaid Data Flow
+## Data Flow
 
 This diagram focuses on data objects, storage, and transformation between stages.
 
